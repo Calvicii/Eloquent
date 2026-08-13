@@ -53,8 +53,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://internal1.languagetool.org/snapshots/LanguageTool-20251204-snapshot.zip",
-          "sha256": "90801bb00defd428c21c3c0d50aa7a80ef16eadd6d27cb516852ef86dcae2a88"
+          "url": "https://internal1.languagetool.org/snapshots/LanguageTool-20260813-snapshot.zip",
+          "sha256": "0465a42740073422d260d996ea5ed8a8fe7d49682789c390f575663059f31bf8"
         }
       ],
       "modules": [
